@@ -1,0 +1,44 @@
+Definitions :
+'author' : Tejas Kannampuzha
+
+
+You CAN do the following with the work:
+1.Modify the code to create something new.
+This has the following condition :
+   1. Disclose the source code when distributing it .
+   2.State the changes made to the program.
+
+2.Deploy the stuff on your own problems/programs.
+This has the following condition :
+   1. If ever made public , the source code shall be distributed
+   free of cost to the author, even if the source code is not
+   open source.
+
+3.Use the code or the concept for any purposes without a commercial intention.
+  (citing the author is necessary).
+
+4.Distribute it to whoever you like.
+
+
+
+You CANNOT do the following with the work :
+1.Make a commercial product out of it.
+
+2.Make money from it in any possible ways.
+
+3.Use the product as a tool to create a commercial product ,
+ intentionally or otherwise.
+
+WARRANTY:
+The material under this licence is distributed without any warranties of any kind ,
+either expressed or implied or otherwise.
+
+LIABILTY:
+In no event and under no legal theory, whether in tort (including negligence), contract,
+or otherwise, shall the author be liable to you for damages, including any direct, indirect,
+special,incidental, or consequential damages of any character arising as a result of this
+License or out of the use or inability to use the work (including but not limited to damages for loss of goodwill,
+work stoppage, computer failure or malfunction, or any and all other commercial damages or losses).
+
+
+Copyright 2021 Tejas Kannampuzha
