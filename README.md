@@ -22,7 +22,7 @@ simple mathematical function.<Br>
 
 `y = x -(11- i)`
 
-Where x is an integer denoting time , and it is the Intensity of the stimulus , and y is the resultant Potential of the cell.<Br>
+Where x is an integer denoting time , and i is the Intensity of the stimulus , and y is the resultant Potential of the cell.<Br>
 <Br>
 The neuron 'Fires' when the Potential crosses the threshold 1, ie , when it reaches an action potential.`
 The mathematical function and other process intensive stuff(opening the input.io file repeatedly and checking what's inside) is written in C for no reasons whatsoever.
